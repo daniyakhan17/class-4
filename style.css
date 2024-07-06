@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+html{
+   font-size: 6.25%;
+}
+
+h1{ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 30rem;
+    text-align: center;
+} 
+
+   
+    
+
+h5{
+    font-size: 15rem;
+    text-align: center;
+  
+    
+} 
+div{
+    font-size: 15rem;
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 50px;
+    padding-top: 20px;
+   padding-bottom: 20px;
+   font-family:inherit;
+ 
+}
+
+p{
+    text-align: center;
+    padding-top: 20px;
+}
+#daniya{
+        text-align: center;
+        padding-top: 30px;
+        font-size: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        word-spacing: 5rem;
+}
